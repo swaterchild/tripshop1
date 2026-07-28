@@ -65,7 +65,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 # НАСТРОЙКИ — ЗАПОЛНИТЕ ПЕРЕД ЗАПУСКОМ
 # ==========================================================
 
-BOT_TOKEN = "8854998089:AAHka18Sm5bkUd8zcc96cnFtUKgR9hIe5lk"
+BOT_TOKEN = 8872998922:AAGXOFbjrtTCCIXOldkzHkUuXnxswazt1o4
 
 # Telegram ID владельца. Узнать можно через @userinfobot.
 OWNER_ID = 8197798416
